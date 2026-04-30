@@ -1,0 +1,1 @@
+{\n  "name": "ethara-ai-team-task-manager",\n  "version": "1.0.0",\n  "private": true,\n  "workspaces": [\n    "packages/*"\n  ],\n  "scripts": {\n    "build": "npm run build --workspaces",\n    "test": "npm run test --workspaces"\n  }\n}
